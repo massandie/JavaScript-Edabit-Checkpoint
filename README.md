@@ -8,4 +8,4 @@ https://edabit.com/user/A49btJz9nsfQpKeCD
 JavaScript
 
 ## Challenges Completed
-30 exercises
+31 exercises et 170 points
